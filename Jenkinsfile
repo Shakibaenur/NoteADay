@@ -80,6 +80,11 @@
        }
      }
 
+  stage('Make gradlew executable') {
+            steps {
+                sh 'chmod +x ./gradlew'
+            }
+        }
      // Put your stages here
    }
  }
