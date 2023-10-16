@@ -79,6 +79,11 @@
          // archiveArtifacts "**/${APP_NAME}-${BUILD_TYPE}.aar, **/*pom-   default.xml*"
        }
      }
+     steps {
+         echo 'Compile project'
+         sh "chmod +x gradlew"
+         sh "./gradlew clean build --no-daemon"
+     }
 
   stage('Make gradlew executable') {
             steps {
