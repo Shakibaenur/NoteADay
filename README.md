@@ -51,7 +51,7 @@ To get started with this project, follow these steps:
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/your-username/todo-app.git
+   git clone https://github.com/Shakibaenur/NoteADay.git
    ```
 
 2. Open the project in Android Studio.
