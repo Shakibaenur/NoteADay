@@ -68,7 +68,7 @@ Before running the app, you might need to configure a few things:
 ## Demonstrate
 
 <p align="center">
-<img src="https://github.com/Shakibaenur/NoteADay/blob/master/resource/demo.mp4" width="500" height="1000" title="Keyboard State Listener">
+<img src="https://github.com/Shakibaenur/NoteADay/blob/master/resource/systemdesign.gif" width="350" height="500" title="Keyboard State Listener">
 </p>
 
 ## System Design
