@@ -68,13 +68,13 @@ Before running the app, you might need to configure a few things:
 ## Demonstrate
 
 <p align="center">
-<img src="https://github.com/Shakibaenur/NoteADay/blob/master/resource/systemdesign.gif" width="350" height="500" title="Keyboard State Listener">
+<img src="https://github.com/Shakibaenur/NoteADay/blob/master/resource/demo.gif" width="350" height="500" title="NoteADay">
 </p>
 
 ## System Design
 
 <p align="center">
-<img src="https://github.com/Shakibaenur/NoteADay/blob/master/resource/systemdesign.gif" width="350" height="500" title="NoteADay">
+<img src="https://github.com/Shakibaenur/NoteADay/blob/master/resource/systemdesign.png" width="350" height="500" title="NoteADay">
 
 </p>
 ## Acknowledgments
