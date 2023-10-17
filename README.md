@@ -68,13 +68,13 @@ Before running the app, you might need to configure a few things:
 ## Demonstrate
 
 <p align="center">
-<img src="https://github.com/Shakibaenur/NoteADay/blob/master/resource/demo.gif" width="350" height="700" title="NoteADay">
+<img src="https://github.com/Shakibaenur/NoteADay/blob/master/resource/demo.gif" width="300" height="700" title="NoteADay">
 </p>
 
 ## System Design
 
 <p align="center">
-<img src="https://github.com/Shakibaenur/NoteADay/blob/master/resource/systemdesign.png" width="600" height="300" title="NoteADay">
+<img src="https://github.com/Shakibaenur/NoteADay/blob/master/resource/systemdesign.png" width="700" height="300" title="NoteADay">
 
 </p>
 ## Acknowledgments
