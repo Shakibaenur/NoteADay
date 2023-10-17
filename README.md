@@ -74,7 +74,7 @@ Before running the app, you might need to configure a few things:
 ## System Design
 
 <p align="center">
-<img src="https://github.com/Shakibaenur/NoteADay/blob/master/resource/systemdesign.png" width="500" height="300" title="NoteADay">
+<img src="https://github.com/Shakibaenur/NoteADay/blob/master/resource/systemdesign.png" width="600" height="300" title="NoteADay">
 
 </p>
 ## Acknowledgments
