@@ -77,6 +77,7 @@ Before running the app, you might need to configure a few things:
 <img src="https://github.com/Shakibaenur/NoteADay/blob/master/resource/systemdesign.png" width="700" height="300" title="NoteADay">
 
 </p>
+
 ## Acknowledgments
 
 This project is based on modern Android development practices and makes use of various libraries and
